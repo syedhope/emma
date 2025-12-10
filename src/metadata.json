@@ -1,0 +1,5 @@
+{
+  "name": "EMMA: Endometriosis MRI Mapping Assistant",
+  "description": "An AI-assisted tool for radiologist decision support and patient-friendly explanations using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}

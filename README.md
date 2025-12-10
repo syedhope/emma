@@ -267,13 +267,9 @@ flowchart TB
 ### Prerequisites
 
 - A **Google AI Studio** account  
-- A **Gemini API key** from [Google AI Studio](https://aistudio.google.com)  
-- Access to the public EMMA app link (Vibe-coded project)
+- A **Gemini API key** from [Google AI Studio](https://aistudio.google.com)
 
-### 1. Open EMMA in AI Studio
-
-- Navigate to:  
-  **🔗 [EMMA Vibe Coding App Link](https://emma-endometriosis-mri-mapping-assistant-524716835804.us-west1.run.app)**
+### 1. Upload the code to Google AI Studio
 
 ### 2. Configure your API key
 
